@@ -1,0 +1,23 @@
+{
+  "name": "annotator-filter-plugin",
+  "description": "Extended filter plugin for annotator.js",
+  "main": "dist/filter.min.js",
+  "authors": [
+    "Michal Wasiluk"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "annotator",
+    "plugin",
+    "filter"
+  ],
+  "homepage": "https://github.com/mwasiluk/annotator-filter-plugin",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
